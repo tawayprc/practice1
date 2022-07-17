@@ -5,7 +5,7 @@ This is <sup>superscript</sup>
 
 > This is quoted
 
-Link to [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Link to [GitHub Docs](https://docs.github.com/en/get-started/quickstart)
 
 
 ```py
