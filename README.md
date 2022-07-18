@@ -9,6 +9,9 @@ Link to [GitHub Docs](https://docs.github.com/en/get-started/quickstart)
 
 
 ```py
-def my_function(n):
-  return n * n
+import random
+def rand_select(array):
+  array_length = len(array)
+  random_index = random.randint(0, array_length - 1) 
+  return array[random_index]
 ```
